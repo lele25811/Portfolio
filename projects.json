@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Vehicle-ReId",
+        "description": "Sistema di re-identificazione di veicoli basato sul Deep Leaning.",
+        "url": "https://github.com/lele25811/Vehicle-ReId",
+        "category": "computer-vision"
+      },
+    {
+      "name": "Visual_Puzzle_Drag",
+      "description": "Gioco di puzzle virtuale basato su gesture delle mani.",
+      "url": "https://github.com/lele25811/Visual_Puzzle_Drag",
+      "category": "computer-vision"
+    },
+    {
+      "name": "JBlackJack",
+      "description": "Progetto universitario in Java sul gioco di carte BlackJack.",
+      "url": "https://github.com/lele25811/JBlackJack",
+      "category": "giochi"
+    },
+    {
+      "name": "Translator_subtitles",
+      "description": "Traduzione automatica di sottotitoli per film e serie TV.",
+      "url": "https://github.com/lele25811/translator_subtitles",
+      "category": "altri"
+    },
+    {
+        "name": "Screenshot-pc-between-terminals",
+        "description": "Un semplice sistema client-server per la cattura di screenshot da un computer remoto.",
+        "url": "https://github.com/lele25811/Screenshot-pc-between-terminals",
+        "category": "altri"
+    },
+    {
+      "name": "Ufo-Shooter",
+      "description": "Gioco arcade top-down, programmato in Construct 3.",
+      "url": "https://lele25811.itch.io/ufo-shooter",
+      "category": "giochi"
+    },
+    {
+      "name": "Space-Shooter",
+      "description": "Gioco arcade in stile space shooter, programmato in Godot Engine.",
+      "url": "https://lele25811.itch.io/space-shooter",
+      "category": "giochi"
+    },
+    {
+      "name": "BlockRunner",
+      "description": "Gioco arcade endless, programmato in Godot Engine per la Lame Jam 2023.",
+      "url": "https://lele25811.itch.io/blockrunner",
+      "category": "giochi"
+    },
+    {
+      "name": "SuperStickRun",
+      "description": "Gioco Platform, programmato in GDevelop.",
+      "url": "https://lele25811.itch.io/superstickrun",
+      "category": "giochi"
+    }
+  ]
